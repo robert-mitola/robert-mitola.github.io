@@ -1,5 +1,27 @@
 body {
   background-color: #fdfdfd;
+  min-width: 25em;
+	max-width: 33em;
+}
+
+hr {
+  background-color: #2f2f2f;
+  width: 95vw;
+  text-align: left;
+  margin-left: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: default;
+  text-shadow: 2px 2px #00ffff;
+}
+
+p {
+  font-family: Verdana, sans-serif;
 }
 
 h1 {
@@ -12,7 +34,7 @@ h1 {
 }
 
 h2 {
-  font-family: Verdana, sans-serif;
+  font-family: Georgia, serif;
   color: #2f2f2f;
 }
 
