@@ -1,0 +1,25 @@
+body {
+  background-color: #fdfdfd;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  color: #2f2f2f;
+  text-shadow:
+    -2px -2px #00ffff,
+    2px 2px #ff66cc,
+    -2px 2px #ffff00;
+}
+
+h2 {
+  font-family: Verdana, sans-serif;
+  color: #2f2f2f;
+}
+
+.default-cursor {
+  cursor: default;
+}
+
+.hover-highlight:hover {
+  background-color: grey;
+}
